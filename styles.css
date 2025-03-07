@@ -167,7 +167,7 @@
         text-align: center;
     }
     .content-image img {
-        content: url('M10-Morales/gulp-pouring-coffee-horizontal.jpg');
+        content: url('/M10-Morales/gulp-pouring-coffee-horizontal.jpg');
     }
 }
 
@@ -184,13 +184,13 @@
         margin: 10px 0;
     }
     .content-image img {
-        content: url('M10-Morales/gulp-pouring-coffee-horizontal.jpg');
+        content: url('/M10-Morales/gulp-pouring-coffee-horizontal.jpg');
     }
 }
 
 .banner {
     flex: 1;
-    background-image: url('M10-Morales/gulp-couple-talking.jpg');
+    background-image: url('/M10-Morales/gulp-couple-talking.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
